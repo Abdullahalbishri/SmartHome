@@ -1,6 +1,6 @@
 # SmartHome
 Graduation project for Embedded system course
-In Proteus simulation you need to a sign com port to bluetooth module by add com port in your computer bluetooth options and choose the same port in bluetooth modeul. 
+In Proteus simulation you need to a sign com port to bluetooth module by add com port in your computer bluetooth options and choose the same port in bluetooth moduel. 
 I used my real mobile phone to connect with smart housesystem using serial bluetooth terminal application. 
 the commands list:
 send 1 to switch on device #1
